@@ -2,4 +2,4 @@
 
 <h2 align="center">Корзина для интернет-магазина</h2>
 
-<img src="/form-gif.gif" width="1012">
+<img src="/preview.gif" width="1012">
