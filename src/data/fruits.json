@@ -3,24 +3,24 @@
 		"articul": "ban150",
 		"title": "Бананы",
 		"cost": 150,
-		"image": "/image/banana_icon.svg"
+		"image": "image/banana_icon.svg"
 	},
 	{
 		"articul": "str550",
 		"title": "Клубника",
 		"cost": 550,
-		"image": "/image/strawberry_icon.svg"
+		"image": "image/strawberry_icon.svg"
 	},
 	{
 		"articul": "app250",
 		"title": "Яблоки",
 		"cost": 250,
-		"image": "/image/apple_icon.svg"
+		"image": "image/apple_icon.svg"
 	},
 	{
 		"articul": "ora375",
 		"title": "Апельсины",
 		"cost": 375,
-		"image": "/image/orange_icon.svg"
+		"image": "image/orange_icon.svg"
 	}
 ]
