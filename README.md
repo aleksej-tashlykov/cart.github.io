@@ -1,6 +1,4 @@
-<h1 align="center">Фруктовая лавка</h1>
-
-<h2 align="center">Корзина для интернет-магазина</h2>
+<h1 align="center">Корзина для интернет-магазина</h1>
 
 <img src="/preview.gif" width="1012">
 
