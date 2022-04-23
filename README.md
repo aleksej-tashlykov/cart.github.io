@@ -4,4 +4,4 @@
 
 <img src="/preview.gif" width="1012">
 
-<h4 align="center"><a href="http://p92420u3.beget.tech/">ФРУКТОВАЯ ЛАВКА</a></h4>
+<h4 align="center"><a href="https://aleksej-tashlykov.github.io/cart.github.io/">ФРУКТОВАЯ ЛАВКА</a></h4>
